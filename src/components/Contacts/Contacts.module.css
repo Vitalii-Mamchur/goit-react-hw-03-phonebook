@@ -1,0 +1,23 @@
+.contacts {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+  padding: 12px;
+  width: 400px;
+  border-radius: 2px;
+  box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 1.5);
+}
+
+.contacts_item {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  padding: 10px;
+  margin: 10px 0;
+  border-bottom: 2px;
+  box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 1.5);
+}
+
+.contacts_button {
+  margin: 0 auto 0 10px;
+}

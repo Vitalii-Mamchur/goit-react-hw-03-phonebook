@@ -1,0 +1,12 @@
+.filter_label {
+  display: block;
+  padding: 12px;
+  width: 400px;
+  border-radius: 2px;
+  box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 1.5);
+  margin-bottom: 26px;
+}
+
+.filter_input {
+  margin-left: 10px;
+}
